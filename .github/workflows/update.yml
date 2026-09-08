@@ -20,12 +20,38 @@ jobs:
         run: |
           curl -L --fail \
             "https://dearbulut.github.io/iptv/playlists/country/ua.m3u" \
-            -o ua.m3u
+            -o source.m3u
+
+      - name: Create simple T62D playlist
+        run: |
+          python3 - <<'PY'
+          import re
+
+          with open("source.m3u", "r", encoding="utf-8") as f:
+              lines = f.read().splitlines()
+
+          result = ["#EXTM3U"]
+
+          for line in lines:
+              line = line.strip()
+
+              if line.startswith("#EXTINF:"):
+                  result.append(line)
+              elif re.match(r"^https?://", line):
+                  result.append(line)
+
+          with open("ua.m3u", "w", encoding="utf-8", newline="\n") as f:
+              f.write("\n".join(result) + "\n")
+          PY
 
       - name: Check playlist
         run: |
           test -s ua.m3u
           grep -q "^#EXTM3U" ua.m3u
+          echo "Channels:"
+          grep -c "^#EXTINF:" ua.m3u
+          echo "URLs:"
+          grep -c "^https\?://" ua.m3u
 
       - name: Commit updated playlist
         run: |
