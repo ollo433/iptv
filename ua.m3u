@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://dearbulut.github.io/iptv/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="100NEWS.ua" tvg-name="100% NEWS" tvg-logo="https://i.imgur.com/bSXKdK5.png" tvg-country="UA" tvg-language="rus;ukr" group-title="News" nexus-score="34",100% NEWS (576p)
+#EXTINF:-1 tvg-id="100NEWS.ua" tvg-name="100% NEWS" tvg-logo="https://i.imgur.com/bSXKdK5.png" tvg-country="UA" tvg-language="rus;ukr" group-title="News" nexus-score="54",100% NEWS (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="1Plus1International.ua" tvg-name="1+1 International" tvg-logo="https://i.imgur.com/LOY0rtp.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="100",1+1 International (720p)
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
@@ -115,7 +115,7 @@ http://91.228.35.249:8001/1:0:1:72:2FA8:13E:820000:0:0:0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/485/index.m3u8
 #EXTINF:-1 tvg-id="EspresoTV.ua" tvg-name="Espreso TV" tvg-logo="https://i.imgur.com/xNatV8K.png" tvg-country="UA" tvg-language="ukr" group-title="News" nexus-score="100",Espreso TV (1080p)
-https://dash2.antik.sk/live/test_espresso/playlist.m3u8
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
 #EXTINF:-1 tvg-id="EUMusic.ua" tvg-name="EU Music" tvg-logo="https://i.imgur.com/fJdvyrG.png" tvg-country="UA" tvg-language="ukr" group-title="Music" nexus-score="100",EU Music (1080p)
 http://stream.mcquack.net/261/index.m3u8
 #EXTINF:-1 tvg-id="EWTNUkraine.ua" tvg-name="EWTN Ukraine" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/1920px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" tvg-country="UA" tvg-language="ukr" group-title="Religious" nexus-score="100",EWTN Ukraine (1080p)
@@ -205,7 +205,7 @@ https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 tvg-id="Lale.ua" tvg-name="Lale" tvg-logo="https://i.imgur.com/CNhqVHd.png" tvg-country="UA" tvg-language="ukr" group-title="Kids" nexus-score="100",Lale
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
-#EXTINF:-1 tvg-id="Lugansk24.ua" tvg-name="Lugansk 24" tvg-logo="https://i.imgur.com/AihoVc0.png" tvg-country="UA" tvg-language="rus" group-title="General" nexus-score="98",Lugansk 24 (576p)
+#EXTINF:-1 tvg-id="Lugansk24.ua" tvg-name="Lugansk 24" tvg-logo="https://i.imgur.com/AihoVc0.png" tvg-country="UA" tvg-language="rus" group-title="General" nexus-score="99",Lugansk 24 (576p)
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-id="LuxTV.ua" tvg-name="Lux TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Lux_TV_2.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="100",Lux TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
@@ -229,7 +229,7 @@ http://stream.mcquack.net/325/index.m3u8
 #EXTINF:-1 tvg-id="MegogoMusic.ua" tvg-name="Megogo Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MEGOGO_Music_%28%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%29.png" tvg-country="UA" tvg-language="ukr" group-title="Music" nexus-score="100",Megogo Music
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
-#EXTINF:-1 tvg-id="MEGOGOSport.ua" tvg-name="MEGOGO Sport" tvg-logo="https://i.imgur.com/5JmT4mW.png" tvg-country="UA" tvg-language="ukr" group-title="Sports" nexus-score="70",MEGOGO Sport (1080p)
+#EXTINF:-1 tvg-id="MEGOGOSport.ua" tvg-name="MEGOGO Sport" tvg-logo="https://i.imgur.com/5JmT4mW.png" tvg-country="UA" tvg-language="ukr" group-title="Sports" nexus-score="49",MEGOGO Sport (1080p)
 http://5.188.159.128:8070/megogo_sport/index.m3u8
 #EXTINF:-1 tvg-id="MistoPlus.ua" tvg-name="Misto+" tvg-logo="https://i.imgur.com/NHjg1Jm.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="0",Misto+ (360p)
 http://93.78.206.172:8080/stream3/stream.m3u8
@@ -267,12 +267,12 @@ http://stream.mcquack.net/326/index.m3u8
 #EXTINF:-1 tvg-id="ObozrevatelTV.ua" tvg-name="Obozrevatel TV" tvg-logo="https://i.imgur.com/ubldSBv.png" tvg-country="UA" tvg-language="ukr" group-title="News" nexus-score="100",Obozrevatel TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
-#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-name="Obshchestvennoe Nezavisimoe Televidenie" tvg-logo="https://i.imgur.com/jFP50g2.png" tvg-country="UA" tvg-language="rus" group-title="News" nexus-score="34",Obshchestvennoe Nezavisimoe Televidenie (576p)
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-name="Obshchestvennoe Nezavisimoe Televidenie" tvg-logo="https://i.imgur.com/jFP50g2.png" tvg-country="UA" tvg-language="rus" group-title="News" nexus-score="54",Obshchestvennoe Nezavisimoe Televidenie (576p)
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-id="OnePlanet.ua" tvg-name="One Planet" tvg-logo="https://i.imgur.com/N7FBNjV.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="100",One Planet (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/448/index.m3u8
-#EXTINF:-1 tvg-id="OrbitaTV.ua" tvg-name="Orbita TV" tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="99",Orbita TV (360p)
+#EXTINF:-1 tvg-id="OrbitaTV.ua" tvg-name="Orbita TV" tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="100",Orbita TV (360p)
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
 #EXTINF:-1 tvg-id="OTSE.ua" tvg-name="OTSE" tvg-logo="https://i.imgur.com/SeRNJIS.png" tvg-country="UA" tvg-language="ukr" group-title="Entertainment" nexus-score="100",OTSE (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -301,7 +301,7 @@ http://stream.mcquack.net/339/index.m3u8
 https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
 #EXTINF:-1 tvg-id="Prokino.ua" tvg-name="Prokino" tvg-logo="https://i.imgur.com/Vm9nbi8.png" tvg-country="UA" tvg-language="ukr" group-title="Movies" nexus-score="0",Prokino (360p)
 http://dtv.vol.net.ua/ProKino/index.m3u8
-#EXTINF:-1 tvg-id="PTV.ua" tvg-name="PTV" tvg-logo="https://i.imgur.com/WDHoSVz.png" tvg-country="UA" tvg-language="ukr" group-title="News" nexus-score="68",PTV (576p)
+#EXTINF:-1 tvg-id="PTV.ua" tvg-name="PTV" tvg-logo="https://i.imgur.com/WDHoSVz.png" tvg-country="UA" tvg-language="ukr" group-title="News" nexus-score="48",PTV (576p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="QuizTV.ua" tvg-name="Quiz TV" tvg-logo="https://i.imgur.com/I0ZE0M4.png" tvg-country="UA" tvg-language="rus" group-title="Entertainment" nexus-score="100",Quiz TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -322,7 +322,7 @@ https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
 #EXTINF:-1 tvg-id="Reporter.ua" tvg-name="Reporter" tvg-logo="https://i.imgur.com/LyA3kBR.png" tvg-country="UA" tvg-language="ukr" group-title="News" nexus-score="100",Reporter (720p)
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
-#EXTINF:-1 tvg-id="Rivne1.ua" tvg-name="Rivne 1" tvg-logo="https://i.imgur.com/ytz7jYV.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="85",Rivne 1 (720p)
+#EXTINF:-1 tvg-id="Rivne1.ua" tvg-name="Rivne 1" tvg-logo="https://i.imgur.com/ytz7jYV.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="90",Rivne 1 (720p)
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Rybalka.ua" tvg-name="Rybalka" tvg-logo="https://i.imgur.com/NafW0xT.png" tvg-country="UA" tvg-language="ukr" group-title="Outdoor" nexus-score="100",Rybalka (1080p)
 https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
@@ -336,8 +336,8 @@ http://stream.mcquack.net/390/index.m3u8
 http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Simon.ua" tvg-name="Simon" tvg-logo="https://i.imgur.com/FfYVCJC.png" tvg-country="UA" tvg-language="ukr;rus" group-title="General" nexus-score="100",Simon (720p)
 https://hls.simon.ua/live-HD/live/playlist.m3u8
-#EXTINF:-1 tvg-id="SK1.ua" tvg-name="SK 1" tvg-logo="https://i.imgur.com/XiXwr5h.png" tvg-country="UA" tvg-language="ukr" group-title="News" nexus-score="68",SK 1 (720p)
-http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SK1.ua" tvg-name="SK 1" tvg-logo="https://i.imgur.com/XiXwr5h.png" tvg-country="UA" tvg-language="ukr" group-title="News" nexus-score="78",SK 1 (720p)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Sonce.ua" tvg-name="Sonce" tvg-logo="https://i.imgur.com/MrkQLTp.png" tvg-country="UA" tvg-language="ukr" group-title="Entertainment" nexus-score="100",Sonce
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
@@ -395,7 +395,7 @@ http://stream.mcquack.net/402/index.m3u8
 #EXTINF:-1 tvg-id="TET.ua" tvg-name="TET" tvg-logo="https://i.imgur.com/Wu6wtbe.png" tvg-country="UA" tvg-language="ukr" group-title="Undefined" nexus-score="100",TET (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/338/index.m3u8
-#EXTINF:-1 tvg-id="TISTV.ua" tvg-name="TIS TV" tvg-logo="https://i.imgur.com/jDaoUt5.png" tvg-country="UA" tvg-language="ukr" group-title="Undefined" nexus-score="20",TIS TV (720p)
+#EXTINF:-1 tvg-id="TISTV.ua" tvg-name="TIS TV" tvg-logo="https://i.imgur.com/jDaoUt5.png" tvg-country="UA" tvg-language="ukr" group-title="Undefined" nexus-score="14",TIS TV (720p)
 https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 #EXTINF:-1 tvg-id="TRKAleks.ua" tvg-name="TRK Aleks" tvg-logo="https://i.imgur.com/1uW5ex8.png" tvg-country="UA" tvg-language="ukr" group-title="Undefined" nexus-score="0",TRK Aleks (576p)
 http://46.46.112.223/live/livestream1.m3u8
@@ -413,7 +413,7 @@ https://vs2126.vcdn.biz/c27a63fda28be51f87a7d0046de1f4b8_megogo/live/hls/b/700_2
 #EXTINF:-1 tvg-id="TV7Plus.ua" tvg-name="TV7+" tvg-logo="https://i.imgur.com/PcTDZ8e.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="0",TV7+
 https://tv7plus.com/hls/tv7_site.m3u8
 #EXTINF:-1 tvg-id="TVA.ua" tvg-name="TVA" tvg-logo="https://i.imgur.com/PtTQ5lv.png" tvg-country="UA" tvg-language="ukr" group-title="Undefined" nexus-score="100",TVA (720p)
-http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Tviyserial.ua" tvg-name="Tviy serial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tviy_Serial.svg/250px-Tviy_Serial.svg.png" tvg-country="UA" tvg-language="ukr" group-title="Series" nexus-score="100",Tviy serial (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/466/index.m3u8
@@ -442,7 +442,7 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
-#EXTINF:-1 tvg-id="ViasatKinoWorld.ua" tvg-name="Viasat Kino World" tvg-logo="https://i.imgur.com/GPiE2Rb.png" tvg-country="UA" tvg-language="rus" group-title="Movies" nexus-score="99",Viasat Kino World
+#EXTINF:-1 tvg-id="ViasatKinoWorld.ua" tvg-name="Viasat Kino World" tvg-logo="https://i.imgur.com/GPiE2Rb.png" tvg-country="UA" tvg-language="rus" group-title="Movies" nexus-score="100",Viasat Kino World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
