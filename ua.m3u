@@ -35,7 +35,7 @@ https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
 http://195.54.52.40/test/index.m3u8
 #EXTINF:-1 tvg-id="ATR.ua" tvg-chno="8154" tvg-name="ATR" tvg-logo="https://i.imgur.com/lRJAXC7.png" tvg-country="UA" tvg-language="ukr;rus" group-title="Culture" nexus-score="100",ATR (1080p)
 http://stream.mcquack.net/244/index.m3u8
-#EXTINF:-1 tvg-id="Avers.ua" tvg-chno="8155" tvg-name="Avers" tvg-logo="https://i.imgur.com/rHHz94D.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="34",Avers (480p)
+#EXTINF:-1 tvg-id="Avers.ua" tvg-chno="8155" tvg-name="Avers" tvg-logo="https://i.imgur.com/rHHz94D.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="24",Avers (480p)
 https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1 tvg-id="BaltaTV.ua" tvg-chno="8156" tvg-name="Balta TV" tvg-logo="https://cdn.teleon.tv/logo/balta-tv-ua.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="0",Balta TV (768p)
 http://194.50.51.34/playlist.m3u8
@@ -173,7 +173,7 @@ https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV.ua" tvg-chno="8210" tvg-name="ITV" tvg-logo="https://i.imgur.com/NZdT9yJ.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="100",ITV (720p)
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="IzmailTV.ua" tvg-chno="8211" tvg-name="Izmail TV" tvg-logo="https://i.imgur.com/CxsUpGz.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="100",Izmail TV (360p)
+#EXTINF:-1 tvg-id="IzmailTV.ua" tvg-chno="8211" tvg-name="Izmail TV" tvg-logo="https://i.imgur.com/CxsUpGz.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="70",Izmail TV (360p)
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-id="K1.ua" tvg-chno="8212" tvg-name="K1" tvg-logo="https://i.imgur.com/uuRGpEn.png" tvg-country="UA" tvg-language="ukr" group-title="Entertainment" nexus-score="100",K1 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -251,7 +251,7 @@ http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8
 http://stream.mcquack.net/403/index.m3u8
 #EXTINF:-1 tvg-id="NikiJunior.ua" tvg-chno="8240" tvg-name="Niki Junior" tvg-logo="https://i.imgur.com/DrHsNin.png" tvg-country="UA" tvg-language="ukr" group-title="Kids" nexus-score="100",Niki Junior (1080p)
 http://stream.mcquack.net/262/index.m3u8
-#EXTINF:-1 tvg-id="NikiKids.ua" tvg-chno="8241" tvg-name="Niki Kids" tvg-logo="https://i.imgur.com/HH4HZ2J.png" tvg-country="UA" tvg-language="ukr" group-title="Kids" nexus-score="100",Niki Kids (1080p)
+#EXTINF:-1 tvg-id="NikiKids.ua" tvg-chno="8241" tvg-name="Niki Kids" tvg-logo="https://i.imgur.com/HH4HZ2J.png" tvg-country="UA" tvg-language="ukr" group-title="Kids" nexus-score="70",Niki Kids (1080p)
 http://stream.mcquack.net/271/index.m3u8
 #EXTINF:-1 tvg-id="NovyiChannel.ua" tvg-chno="8242" tvg-name="Novyi Channel" tvg-logo="https://i.imgur.com/Dnfhdsm.png" tvg-country="UA" tvg-language="ukr;rus" group-title="Entertainment" nexus-score="100",Novyi Channel (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -299,7 +299,7 @@ http://stream.mcquack.net/339/index.m3u8
 https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
 #EXTINF:-1 tvg-id="Prokino.ua" tvg-chno="8260" tvg-name="Prokino" tvg-logo="https://i.imgur.com/Vm9nbi8.png" tvg-country="UA" tvg-language="ukr" group-title="Movies" nexus-score="0",Prokino (360p)
 http://dtv.vol.net.ua/ProKino/index.m3u8
-#EXTINF:-1 tvg-id="PTV.ua" tvg-chno="8261" tvg-name="PTV" tvg-logo="https://i.imgur.com/WDHoSVz.png" tvg-country="UA" tvg-language="ukr" group-title="News" nexus-score="65",PTV (576p)
+#EXTINF:-1 tvg-id="PTV.ua" tvg-chno="8261" tvg-name="PTV" tvg-logo="https://i.imgur.com/WDHoSVz.png" tvg-country="UA" tvg-language="ukr" group-title="News" nexus-score="75",PTV (576p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="QuizTV.ua" tvg-chno="8262" tvg-name="Quiz TV" tvg-logo="https://i.imgur.com/I0ZE0M4.png" tvg-country="UA" tvg-language="rus" group-title="Entertainment" nexus-score="100",Quiz TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -331,8 +331,7 @@ http://stream.mcquack.net/398/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/390/index.m3u8
 #EXTINF:-1 tvg-id="SferaTV.ua" tvg-chno="8274" tvg-name="Sfera-TV" tvg-logo="https://i.imgur.com/S1h1t0G.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="100",Sfera-TV (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
-https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
+http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Simon.ua" tvg-chno="8275" tvg-name="Simon" tvg-logo="https://i.imgur.com/FfYVCJC.png" tvg-country="UA" tvg-language="ukr;rus" group-title="General" nexus-score="100",Simon (720p)
 https://hls.simon.ua/live-HD/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SK1.ua" tvg-chno="8276" tvg-name="SK 1" tvg-logo="https://i.imgur.com/XiXwr5h.png" tvg-country="UA" tvg-language="ukr" group-title="News" nexus-score="100",SK 1 (720p)
@@ -377,7 +376,7 @@ https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
 #EXTINF:-1 tvg-id="SuspilneSport.ua" tvg-chno="8290" tvg-name="Suspilne. Sport" tvg-logo="https://i.imgur.com/16IhU0M.png" tvg-country="UA" tvg-language="ukr" group-title="Sports" nexus-score="100",Suspilne. Sport (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/444/index.m3u8
-#EXTINF:-1 tvg-id="Svarozhychy.ua" tvg-chno="8291" tvg-name="Svarozhychy" tvg-logo="https://i.imgur.com/VnAgQA4.png" tvg-country="UA" tvg-language="ukr" group-title="Entertainment" nexus-score="100",Svarozhychy (1080p)
+#EXTINF:-1 tvg-id="Svarozhychy.ua" tvg-chno="8291" tvg-name="Svarozhychy" tvg-logo="https://i.imgur.com/VnAgQA4.png" tvg-country="UA" tvg-language="ukr" group-title="Entertainment" nexus-score="70",Svarozhychy (1080p)
 http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
 #EXTINF:-1 tvg-id="SvitPlus.ua" tvg-chno="8292" tvg-name="Svit+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Svit%2B_%28HD_Logo%29.png/250px-Svit%2B_%28HD_Logo%29.png" tvg-country="UA" tvg-language="ukr" group-title="General" nexus-score="100",Svit+ (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -441,7 +440,7 @@ http://777905.live.tvstitch.com/playlist.m3u8?master=105&source=aHR0cDovLzE3Ni4x
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 http://777905.live.tvstitch.com/playlist.m3u8?master=249&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ==
-#EXTINF:-1 tvg-id="ViasatKinoWorld.ua" tvg-chno="8315" tvg-name="Viasat Kino World" tvg-logo="https://i.imgur.com/GPiE2Rb.png" tvg-country="UA" tvg-language="rus" group-title="Movies" nexus-score="88",Viasat Kino World
+#EXTINF:-1 tvg-id="ViasatKinoWorld.ua" tvg-chno="8315" tvg-name="Viasat Kino World" tvg-logo="https://i.imgur.com/GPiE2Rb.png" tvg-country="UA" tvg-language="rus" group-title="Movies" nexus-score="92",Viasat Kino World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 http://777905.live.tvstitch.com/playlist.m3u8?master=102&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ==
